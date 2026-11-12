@@ -1,0 +1,13 @@
+{
+  "name": "seen-grow-platform",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "SEEN GROW AI x Human Marketing Audit + Conversational Ecommerce MVP",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node scripts/run-tests.mjs",
+    "dev": "node server.js"
+  },
+  "engines": {"node": ">=20"}
+}
